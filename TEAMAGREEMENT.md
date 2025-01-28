@@ -76,4 +76,5 @@
 - **Biweekly Reviews**:  
   - Roles and responsibilities may be adjusted if team members want to explore different aspects of the project.  
 
-## Team Signatures  
+## Team Signatures
+Kevin Johnson
